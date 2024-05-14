@@ -2,6 +2,7 @@
   "name": "sondefind",
   "version": "0.0.1",
   "author": "Luna Simons <luna@bddvlpr.com> (https://bddvlpr.com)",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "dev": "vite dev",
